@@ -3,9 +3,9 @@ This project explores the data on Electric vehicle sales in India, undertaken as
 
 ## Project Overview
 AtliQ Motors is an automotive giant from the USA specializing in electric vehicles (EVs). In the last 5 years, their market share rose to 25% in the electric and hybrid vehicles segment in North America. As a part of their expansion plans, they wanted to launch their bestselling models in India where their market share is less than 2%. AtliQ Motors India wanted to do a detailed market study of the existing EV/Hybrid market in India before proceeding further.
-       **Objective:** Analyzing Electric Vehicle sales data.
-       **Domain:** Automotive
-       **Tools used:** Power BI, Excel
+       <br/>**Objective:** Analyzing Electric Vehicle sales data.
+       <br/>**Domain:** Automotive
+       <br/>**Tools used:** Power BI, Excel
 
 ## Approach
 **Data Cleaning**
